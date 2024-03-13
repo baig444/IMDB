@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* primary - #1F1E24 */
+
+/* secondary - #6556CD */
+
+html,body{
+    font-family: 'Gilroy';
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(46, 46, 46);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #6556CD;
+  }
