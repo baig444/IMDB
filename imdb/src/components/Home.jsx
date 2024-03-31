@@ -9,7 +9,7 @@ import Dropdown from './Dropdown'
 import Loading from "./Loading";
 
 function Home() {
-    document.title = "Mx Player || Home"
+    document.title = "MovieExpo. || Home"
 
     const [wallpaper, setWallpaper] = useState(null);
     const [trending, setTrending] = useState(null);
