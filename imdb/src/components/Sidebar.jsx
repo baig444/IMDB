@@ -12,7 +12,7 @@ function Sidebar() {
     <div className="w-[20%] h-full border-r-[1.5px] border-slate-400 p-8">
       <h1 className="text-2xl text-white font-bold flex items-center">
         <PiTelevisionSimpleFill className="text-[#6556CD]" />
-        <span className="text-xl ml-2">MX Player.</span>
+        <span className="text-xl ml-2">MovieExpo.</span>
       </h1>
       <nav className="flex flex-col  gap-2 text-zinc-400">
         <h1 className="text-xl font-regular mt-8 mb-3 text-white">
