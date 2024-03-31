@@ -27,7 +27,7 @@ function Preloader() {
   return (
     <div className="preloader h-full w-full absolute bg-[#1F1E24] z-50">
       <div className="counter absolute text-white top-[45%] left-[50%] transform translate-x-[-50%] translate-y-[50%] text-4xl font-semibold flex items- gap-2"><PiTelevisionSimpleFill className='text-[#6556CD] h-10 w-10' />
-  Mx Player</div>
+  MovieExpo.</div>
     </div>
   );
 }
